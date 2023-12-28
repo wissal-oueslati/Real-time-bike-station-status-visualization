@@ -82,8 +82,12 @@ bin/kafka-server-start.sh config/server.properties
 kibana dashboard:
 This map displays the available bikes geographically:
 ![Project Map](images/map.png)
+
 This table displays the number of avialble bikes in the stations:
+
 ![Project Table](images/table.png)
+
 This is the generated table on hive :
+
 ![Project Hive Table](images/hive_table.png)
 ![Project Hive](images/hive.png)
