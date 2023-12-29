@@ -9,7 +9,7 @@ This repository hosts a comprehensive data engineering project aimed at revoluti
 - Apache Hive: 2.3.9
 - Elasticsearch: 8.8.2
 - Kibana: 8.8.2
-##Pipeline
+## Pipeline
 our project pipeline is as follows:
 ![Project Pipeline Image](images/pipeline.png)
 ## Steps
