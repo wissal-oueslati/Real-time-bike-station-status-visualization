@@ -85,7 +85,11 @@ This map displays the available bikes geographically:
 
 This table displays the number of avialble bikes in the stations:
 
-![Project Table](images/table.png)
+![Project Table](images/tablee.png)
+
+This table displays the evolution of the number of avialble bikes in the 3 stations:
+
+![Project Table](images/lines.png)
 
 This is the generated table on hive :
 
